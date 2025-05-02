@@ -19,7 +19,7 @@
 <!-- Animated Section -->
 <table>
   <tr>
-    <td width="60%">
+    <td width="80%">
       <img src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Coding Animation" width="100%" />
     </td>
     <td width="40%">
