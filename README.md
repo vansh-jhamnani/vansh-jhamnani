@@ -1,6 +1,9 @@
 <!-- Andi Mandi Jisne copy kiya uski ..... -->
 ![logo](https://github.com/vansh-jhamnani/vansh-jhamnani/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Vansh Jhamnani </h1>
+<img align="left"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Nitish Awasthi" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 <!--
 
 **vansh-jhamnani/vansh-jhamnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
