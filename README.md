@@ -4,8 +4,8 @@
   <img src="https://github.com/vansh-jhamnani/vansh-jhamnani/blob/main/banner.gif" alt="Vansh Jhamnani Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Vansh Jhamnani </h1>
-<img align="left"  src=" " alt="Vansh Jhamnani" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img align="left" src="https://media.giphy.com/media/S40NzXmdOzDSnHnvKq/giphy.gif" alt="Vansh Jhamnani" width="600" style="margin-right: 30px;" />
+<img width="35%" align="right" alt="Github" src= "https://github.com/vansh-jhamnani/vansh-jhamnani/blob/main/coding.gif"/>
 
 
 
