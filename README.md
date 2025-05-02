@@ -4,8 +4,11 @@
   <img src="https://github.com/vansh-jhamnani/vansh-jhamnani/blob/main/banner.gif" alt="Vansh Jhamnani Banner" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Vansh Jhamnani </h1>
-<img align="left" src="https://media.giphy.com/media/S40NzXmdOzDSnHnvKq/giphy.gif" alt="Vansh Jhamnani" width="600" style="margin-right: 30px;" />
-<img width="35%" align="right" alt="Github" src= "https://github.com/vansh-jhamnani/vansh-jhamnani/blob/main/coding.gif"/>
+<div display: flex; justify-content: center >
+  <img align="left" src="https://media.giphy.com/media/S40NzXmdOzDSnHnvKq/giphy.gif" alt="Vansh Jhamnani" width="550" style="margin-right: 30px;" />
+  <img width="33%" align="right" alt="Github" src= "https://github.com/vansh-jhamnani/vansh-jhamnani/blob/main/coding.gif"/>
+</div>
+
 
 
 
