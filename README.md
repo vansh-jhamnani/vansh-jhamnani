@@ -10,23 +10,18 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/vansh-jhamnani/vansh-jhamnani/blob/main/banner.gif" alt="Vansh Jhamnani Banner" />
+  <img src="https://github.com/vansh-jhamnani/vansh-jhamnani/blob/main/banner.gif" alt="Vansh Jhamnani Banner" width="100%" />
 </p>
 
 <!-- Heading -->
 <h1 align="center">Hi 👋, I'm Vansh Jhamnani</h1>
 
-<!-- Animated Section -->
-<table>
-  <tr>
-    <td width="80%">
-      <img src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Coding Animation" width="100%" />
-    </td>
-    <td width="40%">
-      <img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" alt="GitHub Contributions Animation" width="100%" />
-    </td>
-  </tr>
-</table>
+<!-- Two GIFs side by side -->
+<div align="center">
+  <img src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Coding Animation" width="48%" />
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" alt="GitHub Contributions Animation" width="48%" />
+</div>
 
 <!--
 
