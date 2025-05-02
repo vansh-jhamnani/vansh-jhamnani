@@ -1,27 +1,13 @@
 <!-- Andi Mandi Jisne copy kiya uski ..... -->
-<!-- ![logo](https://github.com/vansh-jhamnani/vansh-jhamnani/blob/main/banner.gif)
-<h1 align="center">Hi 👋, I'm Vansh Jhamnani </h1>
-<div width="35%" align="left" >
-  <img align="center"  src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Vansh Jhamnani" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-</div>
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
--->
-
-<!-- Banner -->
 <p align="center">
   <img src="https://github.com/vansh-jhamnani/vansh-jhamnani/blob/main/banner.gif" alt="Vansh Jhamnani Banner" width="100%" />
 </p>
+<h1 align="center">Hi 👋, I'm Vansh Jhamnani </h1>
+<img align="left"  src=" " alt="Vansh Jhamnani" width="600" height="150"/> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<!-- Heading -->
-<h1 align="center">Hi 👋, I'm Vansh Jhamnani</h1>
 
-<!-- Two GIFs side by side -->
-<div align="center">
-  <img src="https://media.giphy.com/media/QvkZcmITuZ3RejQOtQ/giphy.gif" alt="Coding Animation" width="48%" />
-  &nbsp;
-  <img src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" alt="GitHub Contributions Animation" width="48%" />
-</div>
 
 <!--
 
