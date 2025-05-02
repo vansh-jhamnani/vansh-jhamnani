@@ -1,6 +1,8 @@
-## Hi there 👋
-
+<!-- Andi Mandi Jisne copy kiya uski ..... -->
+![logo](https://github.com/vansh-jhamnani/vansh-jhamnani/blob/main/banner.gif)
+<h1 align="center">Hi 👋, I'm Vansh Jhamnani </h1>
 <!--
+
 **vansh-jhamnani/vansh-jhamnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
