@@ -12,7 +12,7 @@
   <img src="https://github.com/vansh-jhamnani/vansh-jhamnani/blob/main/coding.gif" alt="Github" width="33%" style="max-width: 400px;" />
 </div>
 
-<br/><br/>
+</br></br>
 
 
 
@@ -55,11 +55,19 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vanshsocial1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhamnanivansh@gmail.com) 
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh-jhamnani&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Vansh's GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vansh-jhamnani&theme=dark&hide_border=false" alt="Vansh's GitHub Streak" />
-</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-jhamnani&theme=dark&hide_border=false&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh-jhamnani&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vansh-jhamnani&theme=dark&hide_border=false" width="45%" />
+</p>
+
+<!-- Top Languages -->
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-jhamnani&theme=dark&hide_border=false&layout=compact" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vansh-jhamnani&icon=0&color=0)](https://visitcount.itsvg.in)
